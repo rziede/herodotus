@@ -1,3 +1,8 @@
+/* Version 0.2a
+   This Lorem Ipsum is deprecated. Cupcake Ipsum is superior.
+   - 2015.01.29
+*/
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
 Curabitur maximus felis a sem blandit, a commodo sapien tempus. 
 Maecenas tincidunt laoreet dapibus. Nullam et mattis sem, ut vehicula mi. 
